@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "976211088348",
+    "project_id": "corremondeous",
+    "storage_bucket": "corremondeous.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976211088348:android:8aed28be08b60f1476f519",
+        "android_client_info": {
+          "package_name": "com.lumebits.corremundos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976211088348-dkiraekgd87qvjo8d6j6i93mjm2pvkrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeD6d_GOnMNlr0Fi3u5tYQD_qU4O04jkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976211088348-dkiraekgd87qvjo8d6j6i93mjm2pvkrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976211088348:android:48d7fc454db92b5f76f519",
+        "android_client_info": {
+          "package_name": "com.lumebits.corremundos.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976211088348-dkiraekgd87qvjo8d6j6i93mjm2pvkrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeD6d_GOnMNlr0Fi3u5tYQD_qU4O04jkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976211088348-dkiraekgd87qvjo8d6j6i93mjm2pvkrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
