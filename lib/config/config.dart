@@ -2,7 +2,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 class Config {
   final String appName = 'Safrnama';
-  final String mapAPIKey = 'AIzaSyARxFuDA2Uf51W1kQqvIliVltVpO6ql_cE';
+  final String mapAPIKey = 'AIzaSyARxFuDA2Uf51W1kQqv***********';
   final String countryName = 'India';
   final String splashIcon = 'assets/images/splash.png';
   final String supportEmail = 'safrnamaofficial03@gmail.com';
